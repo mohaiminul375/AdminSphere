@@ -3,6 +3,9 @@ const config = {
   plugins: {
     tailwindcss: {},
   },
+  // rules: {
+  //   "@typescript-eslint/no-require-imports": "error"
+  // }
 };
 
 export default config;
